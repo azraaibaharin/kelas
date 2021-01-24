@@ -9,3 +9,5 @@ A quick solution to manage class meetings.
 pip install -r requirements.txt
 python app.py
 ``` 
+
+Deployed to Heroku.
